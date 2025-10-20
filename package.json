@@ -1,0 +1,13 @@
+{
+  "name": "spinning-gif-page",
+  "version": "1.0.0",
+  "description": "Простая страничка с крутящейся гифкой",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build step needed for static HTML'"
+  },
+  "keywords": ["html", "css", "animation", "gif"],
+  "author": "Your Name",
+  "license": "MIT"
+}
